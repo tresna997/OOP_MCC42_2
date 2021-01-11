@@ -1,0 +1,13 @@
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.exe
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.deps.json
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.runtimeconfig.json
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.runtimeconfig.dev.json
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.dll
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\bin\Debug\netcoreapp3.1\OOP_MCC42_2.pdb
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.csprojAssemblyReference.cache
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.AssemblyInfoInputs.cache
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.AssemblyInfo.cs
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.csproj.CoreCompileInputs.cache
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.dll
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.pdb
+C:\Users\Tresna_WH\Documents\GitHub\OOP_MCC42_2\OOP_MCC42_2\OOP_MCC42_2\obj\Debug\netcoreapp3.1\OOP_MCC42_2.genruntimeconfig.cache
